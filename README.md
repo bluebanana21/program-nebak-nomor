@@ -1,2 +1,2 @@
 # program-nebak-nomor
-projek pemula. selsai 1 jam
+projek pemula. selsai  30menit kali
